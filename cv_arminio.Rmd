@@ -23,7 +23,7 @@ fontsize: 11pt
 linkcolor: blue
 urlcolor: blue
 ---
-Program manager, experienced in inspiring large teams to execute highly-complex projects in resource-constrained environments. Possesses a depp knowledge of data analytics, management, and agriculture, acquired over eight years of sustainable agriculture practice in the United States and more than five yearrss of global development pracsice in East Africa.
+Program manager, experienced in inspiring large teams to execute highly-complex projects in resource-constrained environments. Possesses a depp knowledge of data analytics, management, and agriculture, acquired over eight years of sustainable agriculture practice in the United States and more than five years of global development practice in East Africa.
 
 # Experience
 
@@ -43,7 +43,7 @@ Founder (Rochester, New York) \hfill Jun 2008 - Dec 2012
 
 
 # Education
-*Cornhole University*, MPA Global Development \hfill
+*Cornell University*, MPA Global Development \hfill
 
 *Seton Hall University University*, BA Literature \hfill
 
