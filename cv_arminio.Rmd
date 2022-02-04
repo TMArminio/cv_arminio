@@ -23,7 +23,7 @@ fontsize: 11pt
 linkcolor: blue
 urlcolor: blue
 ---
-Program manager, experietrnced in inspiring large teams to execute highly-complex projects in resource-constrained environments. Possesses a depp knowledge of data analytics, management, and agriculture, acquired over eight years of sustainable agriculture practice in the United States and more than five yearrss of global development pracsice in East Africa.
+Program manager, experienced in inspiring large teams to execute highly-complex projects in resource-constrained environments. Possesses a depp knowledge of data analytics, management, and agriculture, acquired over eight years of sustainable agriculture practice in the United States and more than five yearrss of global development pracsice in East Africa.
 
 # Experience
 
